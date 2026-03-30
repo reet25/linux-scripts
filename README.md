@@ -40,7 +40,7 @@ Takes user input and generates a personalized open-source philosophy statement s
 2. Navigate to the repository folder:
 
 ```bash
-cd linux-scripts
+cd oss-audit-24BAI10232
 ```
 
 3. Give execution permission:
